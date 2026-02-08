@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1770588626506" clover="3.2.0">
+  <project timestamp="1770588626506" name="All files">
+    <metrics statements="114" coveredstatements="108" conditionals="45" coveredconditionals="41" methods="17" coveredmethods="17" elements="176" coveredelements="166" complexity="0" loc="114" ncloc="114" packages="3" files="4" classes="4"/>
+    <package name="src">
+      <metrics statements="21" coveredstatements="20" conditionals="7" coveredconditionals="3" methods="6" coveredmethods="6"/>
+      <file name="app.js" path="/Users/asishmalneni/Downloads/new feature/backend/src/app.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="6" count="19" type="stmt"/>
+        <line num="9" count="19" type="stmt"/>
+        <line num="10" count="19" type="stmt"/>
+        <line num="13" count="19" type="stmt"/>
+        <line num="16" count="19" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="21" count="19" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="25" count="19" type="stmt"/>
+      </file>
+      <file name="database.js" path="/Users/asishmalneni/Downloads/new feature/backend/src/database.js">
+        <metrics statements="12" coveredstatements="11" conditionals="7" coveredconditionals="3" methods="3" coveredmethods="3"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="11" count="37" type="cond" truecount="1" falsecount="1"/>
+        <line num="12" count="37" type="stmt"/>
+        <line num="15" count="37" type="stmt"/>
+        <line num="26" count="37" type="stmt"/>
+        <line num="30" count="81" type="cond" truecount="1" falsecount="1"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="33" count="81" type="stmt"/>
+        <line num="37" count="37" type="cond" truecount="1" falsecount="1"/>
+        <line num="38" count="37" type="stmt"/>
+        <line num="39" count="37" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.models">
+      <metrics statements="47" coveredstatements="47" conditionals="12" coveredconditionals="12" methods="6" coveredmethods="6"/>
+      <file name="task.js" path="/Users/asishmalneni/Downloads/new feature/backend/src/models/task.js">
+        <metrics statements="47" coveredstatements="47" conditionals="12" coveredconditionals="12" methods="6" coveredmethods="6"/>
+        <line num="6" count="34" type="stmt"/>
+        <line num="7" count="34" type="stmt"/>
+        <line num="8" count="34" type="stmt"/>
+        <line num="10" count="34" type="stmt"/>
+        <line num="15" count="34" type="stmt"/>
+        <line num="17" count="34" type="stmt"/>
+        <line num="21" count="9" type="stmt"/>
+        <line num="22" count="9" type="stmt"/>
+        <line num="23" count="9" type="stmt"/>
+        <line num="25" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="30" count="9" type="stmt"/>
+        <line num="32" count="9" type="stmt"/>
+        <line num="33" count="9" type="stmt"/>
+        <line num="37" count="23" type="stmt"/>
+        <line num="38" count="23" type="stmt"/>
+        <line num="39" count="23" type="stmt"/>
+        <line num="43" count="10" type="stmt"/>
+        <line num="44" count="10" type="stmt"/>
+        <line num="46" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="47" count="2" type="stmt"/>
+        <line num="50" count="8" type="stmt"/>
+        <line num="51" count="8" type="stmt"/>
+        <line num="52" count="8" type="stmt"/>
+        <line num="54" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="55" count="5" type="stmt"/>
+        <line num="56" count="5" type="stmt"/>
+        <line num="59" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="60" count="3" type="stmt"/>
+        <line num="61" count="3" type="stmt"/>
+        <line num="64" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="65" count="4" type="stmt"/>
+        <line num="66" count="4" type="stmt"/>
+        <line num="69" count="8" type="stmt"/>
+        <line num="70" count="8" type="stmt"/>
+        <line num="71" count="8" type="stmt"/>
+        <line num="73" count="8" type="stmt"/>
+        <line num="77" count="8" type="stmt"/>
+        <line num="79" count="8" type="stmt"/>
+        <line num="83" count="4" type="stmt"/>
+        <line num="84" count="4" type="stmt"/>
+        <line num="85" count="4" type="stmt"/>
+        <line num="86" count="4" type="stmt"/>
+        <line num="90" count="1" type="stmt"/>
+        <line num="91" count="1" type="stmt"/>
+        <line num="92" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.routes">
+      <metrics statements="46" coveredstatements="41" conditionals="26" coveredconditionals="26" methods="5" coveredmethods="5"/>
+      <file name="tasks.js" path="/Users/asishmalneni/Downloads/new feature/backend/src/routes/tasks.js">
+        <metrics statements="46" coveredstatements="41" conditionals="26" coveredconditionals="26" methods="5" coveredmethods="5"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="23" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="5" type="stmt"/>
+        <line num="36" count="5" type="stmt"/>
+        <line num="38" count="5" type="cond" truecount="4" falsecount="0"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="42" count="3" type="cond" truecount="4" falsecount="0"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="49" count="2" type="stmt"/>
+        <line num="50" count="2" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="58" count="5" type="stmt"/>
+        <line num="59" count="5" type="stmt"/>
+        <line num="61" count="5" type="cond" truecount="4" falsecount="0"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="68" count="4" type="stmt"/>
+        <line num="69" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="70" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="71" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="73" count="4" type="stmt"/>
+        <line num="75" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="76" count="1" type="stmt"/>
+        <line num="79" count="3" type="stmt"/>
+        <line num="81" count="0" type="stmt"/>
+        <line num="86" count="1" type="stmt"/>
+        <line num="87" count="2" type="stmt"/>
+        <line num="88" count="2" type="stmt"/>
+        <line num="90" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="91" count="1" type="stmt"/>
+        <line num="94" count="1" type="stmt"/>
+        <line num="96" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
